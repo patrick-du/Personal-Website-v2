@@ -57,16 +57,6 @@ class MNav extends Component {
                     >
                       <div className="mobileNavLink navlink-font">WORK</div>
                     </Link>
-                    <br />
-                    <Link
-                      to="/photography"
-                      onClick={this.toggleActive}
-                      className="linkdec"
-                    >
-                      <div className="mobileNavLink navlink-font">
-                        PHOTOGRAPHY
-                      </div>
-                    </Link>
                   </div>
                 </Fade>
               </div>

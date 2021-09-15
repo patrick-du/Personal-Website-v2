@@ -11,12 +11,6 @@ import Serenity from '../../pages/Work/Serenity';
 import Huddle from '../../pages/Work/Huddle';
 import Authentication from '../../pages/Work/Authentication';
 import Weatherly from '../../pages/Work/Weatherly';
-import FitBud from '../../pages/Work/FitBud';
-import Photography from '../../pages/Photography';
-import LosAngeles from '../../pages/Photography/LosAngeles';
-import Banff from '../../pages/Photography/Banff';
-import Calgary from '../../pages/Photography/Calgary';
-import Toronto from '../../pages/Photography/Toronto';
 
 const routes = [
   {
@@ -70,30 +64,6 @@ const routes = [
   {
     path: '/work/weatherly',
     component: Weatherly,
-  },
-  // {
-  //   path: '/work/fitbud',
-  //   component: FitBud,
-  // },
-  {
-    path: '/photography',
-    component: Photography,
-  },
-  {
-    path: '/photography/losangeles',
-    component: LosAngeles,
-  },
-  {
-    path: '/photography/banff',
-    component: Banff,
-  },
-  {
-    path: '/photography/calgary',
-    component: Calgary,
-  },
-  {
-    path: '/photography/toronto',
-    component: Toronto,
   },
 ];
 

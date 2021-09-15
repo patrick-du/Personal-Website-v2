@@ -20,6 +20,40 @@ const UWBlueprint = () => {
             organizations to provide technology services such as websites,
             mobile applications, analysis tools—free of charge.
           </p>
+          <p>
+            All of our work is open source and can be found on{' '}
+            <HyperLink link="https://github.com/uwblueprint/" text="GitHub" />.
+          </p>
+          <hr />
+          <p>
+            <b>Raising the Roof (RTR)</b>
+          </p>
+          <p>
+            <b>Role: </b>
+            Project Developer
+          </p>
+          <p>
+            <b>Duration: </b>
+            January to April 2021
+          </p>
+          <p>
+            <b>Technologies: </b>
+            React, Node (Express), GraphQL (Apollo), PostgreSQL, Docker
+          </p>
+          <p>
+            <b>Contribution: </b>
+            Developed a storefront to support homelessness across Canada for
+            Raising the Roof’s annual fundraising campaign, impacting 200+
+            partner agencies
+          </p>
+          <p>
+            View the web app on{' '}
+            <HyperLink link="https://building-up.netlify.app/" text="Netlify" />
+            .
+          </p>
+          <PhotoWrapper img="uwblueprint9.png" />
+          <PhotoWrapper img="uwblueprint10.png" />
+          <PhotoWrapper img="uwblueprint11.png" />
           <hr />
           <p>
             <b>Region of Waterloo Paramedic Services (PSV) </b>
@@ -34,7 +68,14 @@ const UWBlueprint = () => {
           </p>
           <p>
             <b>Technologies: </b>
-            React, TypeScript, Node, GraphQL, Apollo Client & Server, PostgreSQL
+            React, TypeScript, Node (Express), GraphQL (Apollo), PostgreSQL,
+            Docker
+          </p>
+          <p>
+            <b>Contribution: </b>
+            Built a web platform that digitizes the paramedic workflow to
+            support patient triaging and real-time updates during mass casualty
+            events
           </p>
           <hr />
           <p>
@@ -53,17 +94,9 @@ const UWBlueprint = () => {
             React, TypeScript, Ruby on Rails, Docker
           </p>
           <p>
-            <b>Core Contributions</b>
-            <ul>
-              <li>
-                Developing a web client for an NPO that improves social service
-                information accessibility through interactive flowcharts
-              </li>
-              <li>
-                Writing scalable front-end flowchart components with TypeScript
-                and React to tackle modular backend data
-              </li>
-            </ul>
+            <b>Contribution: </b>
+            Developed a web app that improves the accessibility of social
+            services for 1000+ Waterloo residents through interactive flowcharts
           </p>
           <p>
             View the web app on{' '}

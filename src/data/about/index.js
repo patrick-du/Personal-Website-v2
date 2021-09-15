@@ -1,19 +1,16 @@
 const posts = [
   {
+    path:
+      'https://medium.com/uw-blueprint/project-highlight-5-building-up-9d58391b02c6',
+    title: 'Project Highlight: Building Up',
+    subtitle: 'UW Blueprint',
+    ext: true,
+  },
+  {
     path: 'https://www.applyboard.com/life/engineering-coop-partrick',
     title: 'Remote Software Engineering',
     subtitle: 'Life at ApplyBoard',
     ext: true,
-  },
-  {
-    path: '/about/story',
-    title: 'How I Started Coding',
-    subtitle: 'My Story',
-  },
-  {
-    path: '/about/career',
-    title: 'Plans for the Future',
-    subtitle: 'Career Aspirations',
   },
 ];
 

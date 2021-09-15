@@ -55,18 +55,20 @@ const Landing = () => {
           <span className="period">.</span>
         </StyledTitle>
         <StyledParagraph>
-          I&rsquo;m Patrick, a 3rd year student at the University of Waterloo. I
+          I&rsquo;m Patrick, a 4th year student at the University of Waterloo. I
           enjoy creating delightful web experiences focused on functionality and
           minimalism.
         </StyledParagraph>
         <StyledParagraph>
-          Currently, I&rsquo;m a software developer at{' '}
-          <HyperLink link="https://www.d2l.com" text="D2L" /> working on
-          enabling interoperability and data exchange between Brightspace and
-          external systems.
+          Currently, I&rsquo;m a software engineer at{' '}
+          <HyperLink link="https://carta.com/" text="Carta" /> on the LLC team
+          enabling comprehensive equity management and specialized valuations
+          for limited liability companies.
         </StyledParagraph>
         <br />
-        <StyledParagraph>Seeking Summer 2021 SWE internships.</StyledParagraph>
+        <StyledParagraph>
+          Seeking 2022 new grad opportunities.
+        </StyledParagraph>
         <StyledResume href={Resume} target="_blank" className="linkdec">
           No time? View my resume.
         </StyledResume>

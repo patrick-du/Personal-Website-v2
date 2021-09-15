@@ -27,19 +27,23 @@ const About = () => {
       <hr className="my-3" />
       <Fade big>
         <p className="mt-3">
-          I&rsquo;m a 3rd year student at the University of Waterloo studying
+          I&rsquo;m a 4th year student at the University of Waterloo studying
           Kinesiology with a minor in Computer Science.
           <br />
           <br />
-          Currently, I&rsquo;m interning as a software developer at{' '}
-          <HyperLink link="https://www.d2l.com" text="D2L" />
-          . In the past, I&rsquo;ve interned at companies such as ApplyBoard,
-          Oculys Health Informatics, and FGF Brands.
+          Currently, I&rsquo;m a software engineer at{' '}
+          <HyperLink link="https://carta.com" text="Carta" />. In the past,
+          I&rsquo;ve interned at companies such as Desire2Learn (D2L),
+          ApplyBoard, Oculys Health Informatics, and FGF Brands.
           <br />
           <br />
-          In my spare time, I enjoy powerlifting, playing team-oriented sports
-          such as volleyball and basketball, discovering music, and building
-          technology for social good at{' '}
+          In my spare time, I enjoy{' '}
+          <HyperLink
+            link="https://www.goodreads.com/patrick-du"
+            text="reading"
+          />{' '}
+          (currently Sapiens & Grokking Algorithms), powerlifting, discovering
+          new music, and building technology for social good at{' '}
           <HyperLink link="https://www.uwblueprint.org" text="UW Blueprint" />.
         </p>
         {cards}
